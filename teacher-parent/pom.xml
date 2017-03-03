@@ -12,5 +12,8 @@
     <groupId>com.kalix.ar.teacher</groupId>
     <artifactId>teacher-parent</artifactId>
     <name>Kalix AR Teacher Parent</name>
+    <modules>
+        <module>system-parent</module>
+    </modules>
     <packaging>pom</packaging>
 </project>
