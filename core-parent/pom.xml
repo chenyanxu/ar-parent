@@ -10,7 +10,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.kalix.ar.core</groupId>
-    <artifactId>ar-core-parent</artifactId>
+    <artifactId>core-parent</artifactId>
     <name>Kalix AR Core Parent</name>
     <modules>
         <module>ar-core-cloudedu-webapp</module>
