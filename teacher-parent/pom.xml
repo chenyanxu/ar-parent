@@ -13,7 +13,7 @@
     <artifactId>teacher-parent</artifactId>
     <name>Kalix AR Teacher Parent</name>
     <modules>
-        <module>system-parent</module>
+        <module>teacher-system-parent</module>
     </modules>
     <packaging>pom</packaging>
 </project>
