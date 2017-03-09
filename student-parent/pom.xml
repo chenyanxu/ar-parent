@@ -14,6 +14,7 @@
     <name>Kalix AR Student Parent</name>
     <modules>
         <module>student-system-parent</module>
+        <module>student-core-parent</module>
     </modules>
     <packaging>pom</packaging>
 </project>
