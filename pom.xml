@@ -26,8 +26,6 @@
 
     <modules>
         <module>core-parent</module>
-        <module>student-parent</module>
-        <module>teacher-parent</module>
     </modules>
 
     <dependencyManagement>
