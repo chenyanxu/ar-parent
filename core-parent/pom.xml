@@ -13,7 +13,9 @@
     <artifactId>core-parent</artifactId>
     <name>Kalix AR Core Parent</name>
     <modules>
-        <module>ar-core-cloudedu-webapp</module>
+        <module>ar-core-webapp</module>
+        <module>ar-core-extjs</module>
+        <module>ar-core-api</module>
     </modules>
     <packaging>pom</packaging>
 </project>
